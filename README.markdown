@@ -1,3 +1,5 @@
+![landfill](http://github.com/cloudburst/landfill/tree/master/landfill.png?raw=true)
+
 ## [`landfill`]
 
 [`landfill`] is a Python library for dumping a running Linux process from memory and rebuilding it into an ELF file that can then be run on any system.  It is heavily based on the [`process dumper`] tool by ilo.  The library works by attaching to a process using ptrace and then rebuilding the program using only the auxv vector found on the stack.  It supports both 32bit and 64bit.
