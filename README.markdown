@@ -1,4 +1,4 @@
-![landfill](http://github.com/cloudburst/landfill/tree/master/landfill.png?raw=true)
+![landfill](http://github.com/cloudburst/landfill/blob/master/landfill.png?raw=true)
 
 ## Landfill
 
